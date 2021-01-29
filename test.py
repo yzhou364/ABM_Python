@@ -1,5 +1,3 @@
-def print(word):
-    pass
 
 
-print("try")
+print("hu")
